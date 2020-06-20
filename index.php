@@ -33,7 +33,7 @@
     </div>
 
     <audio id="musicPlayer">
-        <source src="media/24.wav" type="audio/mpeg">
+        <source src="media/24.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio> 
 
